@@ -21,10 +21,28 @@ For contributions, please refer to [the contribution guidelines](https://github.
 ## Decentralized Identity | Self-sovereign Identity
 
 ### Papers
+- **Methods for Decentralized Identities: Evaluation and Insights**
+  *W. Fdhila, N. Stifter, K. Kostal, et al*
+  BPM 2021, [eprint](https://eprint.iacr.org/2021/1087.pdf)
 
 - **CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability**
   *D. Maram, H. Malvai, F. Zhang, et al*
   IEEE SP 2021, [eprint](https://eprint.iacr.org/2020/934.pdf)
+- **Decentralized Multi-authority Anonymous Authentication for Global Identities with Non-interactive Proofs**
+  *H. Anada*
+  IEEE BITS 19, [eprint](https://eprint.iacr.org/2019/701.pdf)
+- **A Decentralized Public Key Infrastructure with Identity Retention**
+  *C. Fromknecht, D. Velicanu, S. Yakoubov*
+  Preprint, [eprint](https://eprint.iacr.org/2014/803.pdf)
+- **zkKYC in DeFi: An approach for implementing the zkKYC solution concept in Decentralized Finance**
+  *P. Pauwels, J. Pirovich, P. Braunz, et al*
+  Preprint, [eprint](https://eprint.iacr.org/2022/321.pdf)
+- **A Privacy-Preserving Distributed Identity Offline-First PoCP Blockchain Paradigm**
+  *A. Nassief*
+  Preprint, [eprint](https://eprint.iacr.org/2021/1186.pdf)
+- **Decentralized Anonymous Credentials**
+  *C. Garman, M. Green, I. Miers*
+  Preprint, [eprint](https://eprint.iacr.org/2013/622.pdf)
 
 ### Frameworks
 
@@ -40,7 +58,8 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 - [GitHub Submission](https://github.com/ethereum/EIPs/pull/4973)
 - [Offical EIP Specification Document](https://eips.ethereum.org/EIPS/eip-4973)
 - [Reference Implementation by Proposers](https://github.com/rugpullindex/ERC4973/)
-- [Blog post that summarizes the Account-bound vs Soulbound debates](https://timdaub.github.io/2022/05/30/what-are-account-bound-tokens/)
+- [Blog Post That Summarizes The Account-bound vs Soulbound Debates](https://timdaub.github.io/2022/05/30/what-are-account-bound-tokens/)
+- [Core Contract Design Update Commit](https://github.com/rugpullindex/ERC4973/commit/27a62d1d61e4890542d941a7be7b314ab8e242d3)
 
 #### Other Interfaces
 
@@ -48,6 +67,7 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 - [ERC: Claim Holder #735](https://github.com/ethereum/EIPs/issues/735)
 - [ERC1238: Non-transferrable Non-Fungible Tokens (NTT) #1238](https://github.com/ethereum/EIPs/issues/1238)
 - [Creates EIP-5114: Soulbound Token](https://github.com/ethereum/EIPs/pull/5114)
+- [Add EIP-5192 - Minimal Soulbound NFTs #5192](https://github.com/ethereum/EIPs/pull/5192)
 
 ### Implementations
 
@@ -72,6 +92,10 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 ---
 
 # Reputation 
+- **A Decentralized Anonymity-Preserving Reputation System with Constant-time Score Retrieval**
+  *R. Bazin, A. Schaub, O. Hasan et al*
+  Preprint, [eprint](https://eprint.iacr.org/2016/416.pdf)
+
 
 ## Mechanism Design
 
