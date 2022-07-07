@@ -4,7 +4,7 @@ Thanks for your interests in contribution! Please read the following guidelines 
 - Any papers, projects, toolings, frameeworks, and educational resources related to identity, privacy, and reputation are welcomed! 
 - Paper reading resources are especially recommended!
 ## Guidelines
-- Clone the repo `git clone https://github.com/memester-xyz/surl`
+- Clone the repo `git clone https://github.com/kvnyu24/awesome-identity.git`
 - Create your own branch `git checkout -b BRANCH_NAME`
 - Commit changes with clear description `git commit -m 'desc'`
   - Recommended form for commit message: 
