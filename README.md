@@ -6,7 +6,7 @@ The highly *interoperable*, *composable*, and *user-owned* future of the Interne
 
 With the above in mind, this repo keeps track of the latest academic research, project and framework development, and educational resources related to the field. We attempt to keep all the resources as approachable as possible by providing more context about them. For academic papers, it's recommended for additional explanatory resources like slides and videos to be added. 
 
-For contributions, please refer to [the contribution guidelines]([CONTRIBUTING.md](https://github.com/kvnyu24/awesome-identity/blob/main/CONTRIBUTING.md)).
+For contributions, please refer to [the contribution guidelines](https://github.com/kvnyu24/awesome-identity/blob/main/CONTRIBUTING.md).
 
 # Identity
 ## IAM
