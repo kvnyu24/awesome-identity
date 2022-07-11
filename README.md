@@ -27,10 +27,10 @@ For contributions, please refer to [the contribution guidelines](https://github.
 
 - **CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability**
   *D. Maram, H. Malvai, F. Zhang, et al*
-  IEEE SP 2021, [eprint](https://eprint.iacr.org/2020/934.pdf)
+  SP 2021, [eprint](https://eprint.iacr.org/2020/934.pdf)
 - **Decentralized Multi-authority Anonymous Authentication for Global Identities with Non-interactive Proofs**
   *H. Anada*
-  IEEE BITS 19, [eprint](https://eprint.iacr.org/2019/701.pdf)
+  BITS 19, [eprint](https://eprint.iacr.org/2019/701.pdf)
 - **A Decentralized Public Key Infrastructure with Identity Retention**
   *C. Fromknecht, D. Velicanu, S. Yakoubov*
   Preprint, [eprint](https://eprint.iacr.org/2014/803.pdf)
@@ -42,7 +42,7 @@ For contributions, please refer to [the contribution guidelines](https://github.
   Preprint, [eprint](https://eprint.iacr.org/2021/1186.pdf)
 - **Decentralized Anonymous Credentials**
   *C. Garman, M. Green, I. Miers*
-  Preprint, [eprint](https://eprint.iacr.org/2013/622.pdf)
+  NDSS 2014, [eprint](https://eprint.iacr.org/2013/622.pdf)
 
 ### Frameworks
 
@@ -70,14 +70,19 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 - [Add EIP-5192 - Minimal Soulbound NFTs #5192](https://github.com/ethereum/EIPs/pull/5192)
 
 ### Implementations
-
-### Applications
-
+- [Sismo Protocol](https://www.sismo.io/): a modular Attestations Protocol focused on decentralization, privacy and usability.
+  - [Sismo Protocol Contracts](https://github.com/sismo-core/sismo-protocol)
+  - [Docs](https://docs.sismo.io/sismo-docs/)
+- 
 ---
 
 # Privacy
 
 ## MPC-based Solutions
+### General Frameworks
+- [Multi-Protocol SPDZ](https://github.com/data61/MP-SPDZ): Software to benchmark various SMPC protocols such as SPDZ, SPDZ2k, MASCOT, Overdrive, BMR garbled circuits, Yao's garbled circuits, and computation based on three-party replicated secret sharing as well as Shamir's secret sharing (with an honest majority).
+- [Secretflow](https://github.com/secretflow/secretflow): SecretFlow is a unified framework for privacy-preserving data intelligence and machine learning
+
 
 ## ZKP-based Solutions
 
@@ -88,6 +93,11 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 ## PSI-based Solutions
 
 ## TEE-based Solutions
+- **Town Crier: An Authenticated Data Feed for Smart Contracts**
+  *F. Zhang, E. Cecchetti, K. Croman, et al.*
+  CCS 16, [eprint](https://eprint.iacr.org/2016/168.pdf)
+  - [Website](https://www.town-crier.org/)
+  - [GitHub](https://github.com/bl4ck5un/Town-Crier)
 
 ---
 
@@ -114,3 +124,5 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 ## Cryptography
 
 ### Digital Signatures
+
+## Legislation
