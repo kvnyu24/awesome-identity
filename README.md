@@ -34,9 +34,6 @@ For contributions, please refer to [the contribution guidelines](https://github.
 - **A Decentralized Public Key Infrastructure with Identity Retention**
   *C. Fromknecht, D. Velicanu, S. Yakoubov*
   Preprint, [eprint](https://eprint.iacr.org/2014/803.pdf)
-- **zkKYC in DeFi: An approach for implementing the zkKYC solution concept in Decentralized Finance**
-  *P. Pauwels, J. Pirovich, P. Braunz, et al*
-  Preprint, [eprint](https://eprint.iacr.org/2022/321.pdf)
 - **A Privacy-Preserving Distributed Identity Offline-First PoCP Blockchain Paradigm**
   *A. Nassief*
   Preprint, [eprint](https://eprint.iacr.org/2021/1186.pdf)
@@ -73,20 +70,40 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 - [Sismo Protocol](https://www.sismo.io/): a modular Attestations Protocol focused on decentralization, privacy and usability.
   - [Sismo Protocol Contracts](https://github.com/sismo-core/sismo-protocol)
   - [Docs](https://docs.sismo.io/sismo-docs/)
-- 
+
+
+## On-chain Key Management
+### Social Recovery Wallets
+- [Vitalik's Basic Explainer of Social Recovery Wallets](https://hackernoon.com/what-is-a-social-recovery-wallet) 
+#### Implementations
+- [Argent](https://www.argent.xyz/)
+  - [Argent Recovery with Guardians](https://support.argent.xyz/hc/en-us/articles/360008828238)
+- [Loopring Wallet](https://loopring.io/wallet#/)
+  - [Loopring Interface to Assign Guardian](https://loopring.io/#/guardian)
+
 ---
 
 # Privacy
 
 ## MPC-based Solutions
+- **DECO: Liberating Web Data Using Decentralized Oracles for TLS**
+  *F. Zhang, D. Maram, H. Malvai*
+  CCS 2020, [arxiv](https://arxiv.org/pdf/1909.00938.pdf)
+  - [Official Website](https://www.deco.works/)
+  - [Ari Juels Presentation](https://www.youtube.com/watch?v=zWTx1iQOCDM)
+  - [Chainlink Mixicles](https://assets.website-files.com/5f44d690acb168953e6181f6/5fa2f1616ac1b092226b3a86_mixicles.pdf)
 ### General Frameworks
 - [Multi-Protocol SPDZ](https://github.com/data61/MP-SPDZ): Software to benchmark various SMPC protocols such as SPDZ, SPDZ2k, MASCOT, Overdrive, BMR garbled circuits, Yao's garbled circuits, and computation based on three-party replicated secret sharing as well as Shamir's secret sharing (with an honest majority).
 - [Secretflow](https://github.com/secretflow/secretflow): SecretFlow is a unified framework for privacy-preserving data intelligence and machine learning
 
 
 ## ZKP-based Solutions
+- **zkKYC in DeFi: An approach for implementing the zkKYC solution concept in Decentralized Finance**
+  *P. Pauwels, J. Pirovich, P. Braunz, et al*
+  Preprint, [eprint](https://eprint.iacr.org/2022/321.pdf)
 
 ### Basic Zero-knowledge Proofs
+
 
 
 
