@@ -11,6 +11,30 @@ For contributions, please refer to [the contribution guidelines](https://github.
 # Identity
 
 ## IAM (Traditional)
+- **HIR-CP-ABE: Hierarchical Identity Revocable Ciphertext-Policy Attribute-Based Encryption for Secure and Flexible Data Sharing**
+*Q. Dong, D. Huang, J. Luo*
+Preprint, [eprint](https://eprint.iacr.org/2017/1101.pdf)
+- **Privacy-preserving Identity Management System**
+*J. Lee, J. Choi, H. Oh, et al*
+Preprint, [eprint](https://eprint.iacr.org/2021/1459.pdf)
+- **Identity-Based Authenticated Asymmetric Group Key Agreement Protocol**
+*L. Zhang, Q. Wu, B. Qin, et al*
+COCOON 2010, [eprint](https://eprint.iacr.org/2010/209.pdf)
+- **Holistic Privacy-Preserving Identity Management System for the Internet of Things**
+*J. Bernabe, J. Ramos, A. Gomez*
+Mob. Inf. Syst. 2017, [hindawi](https://downloads.hindawi.com/journals/misy/2017/6384186.pdf)
+- **Efficient Access Control of Sensitive Data Service in Outsourcing Scenarios**
+*Y. Zhang and J. Chen*
+Preprint, [eprint](https://eprint.iacr.org/2010/242.pdf)
+- **A Framework for Secure Single Sign-On**
+*B. David, A. Nascimento, R. Tonicelli*
+Preprint, [eprint](https://eprint.iacr.org/2011/246.pdf)
+- **Secure Decentralized Access Control Policy for Data Sharing in Smart Grid**
+*Y. Ye, L. Zhang, Y. Mu, et al*
+INFOCOM 2021, [eprint](https://eprint.iacr.org/2020/1567.pdf)
+- **Cross-Domain Identity-based Matchmaking Encryption**
+*A. Wu, J. Weng, W. Luo, et al*
+Preprint, [eprint](https://eprint.iacr.org/2022/085.pdf)
 
 ### Papers
 
@@ -24,13 +48,15 @@ For contributions, please refer to [the contribution guidelines](https://github.
 - **Methods for Decentralized Identities: Evaluation and Insights**
   *W. Fdhila, N. Stifter, K. Kostal, et al*
   BPM 2021, [eprint](https://eprint.iacr.org/2021/1087.pdf)
-
+- **SIMS : Self Sovereign Identity Management System with Preserving Privacy in Blockchain**
+  *J. Lee, J. Hwang, J. Choi, et al*
+  Preprint, [eprint](https://eprint.iacr.org/2019/1241.pdf)
 - **CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability**
   *D. Maram, H. Malvai, F. Zhang, et al*
   SP 2021, [eprint](https://eprint.iacr.org/2020/934.pdf)
 - **Decentralized Multi-authority Anonymous Authentication for Global Identities with Non-interactive Proofs**
   *H. Anada*
-  BITS 19, [eprint](https://eprint.iacr.org/2019/701.pdf)
+  BITS 2019, [eprint](https://eprint.iacr.org/2019/701.pdf)
 - **A Decentralized Public Key Infrastructure with Identity Retention**
   *C. Fromknecht, D. Velicanu, S. Yakoubov*
   Preprint, [eprint](https://eprint.iacr.org/2014/803.pdf)
@@ -112,7 +138,7 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 ## TEE-based Solutions
 - **Town Crier: An Authenticated Data Feed for Smart Contracts**
   *F. Zhang, E. Cecchetti, K. Croman, et al.*
-  CCS 16, [eprint](https://eprint.iacr.org/2016/168.pdf)
+  CCS 2016, [eprint](https://eprint.iacr.org/2016/168.pdf)
   - [Website](https://www.town-crier.org/)
   - [GitHub](https://github.com/bl4ck5un/Town-Crier)
 
