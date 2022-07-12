@@ -11,32 +11,33 @@ For contributions, please refer to [the contribution guidelines](https://github.
 # Identity
 
 ## IAM (Traditional)
-- **HIR-CP-ABE: Hierarchical Identity Revocable Ciphertext-Policy Attribute-Based Encryption for Secure and Flexible Data Sharing**
-*Q. Dong, D. Huang, J. Luo*
-Preprint, [eprint](https://eprint.iacr.org/2017/1101.pdf)
-- **Privacy-preserving Identity Management System**
-*J. Lee, J. Choi, H. Oh, et al*
-Preprint, [eprint](https://eprint.iacr.org/2021/1459.pdf)
-- **Identity-Based Authenticated Asymmetric Group Key Agreement Protocol**
-*L. Zhang, Q. Wu, B. Qin, et al*
-COCOON 2010, [eprint](https://eprint.iacr.org/2010/209.pdf)
-- **Holistic Privacy-Preserving Identity Management System for the Internet of Things**
-*J. Bernabe, J. Ramos, A. Gomez*
-Mob. Inf. Syst. 2017, [hindawi](https://downloads.hindawi.com/journals/misy/2017/6384186.pdf)
-- **Efficient Access Control of Sensitive Data Service in Outsourcing Scenarios**
-*Y. Zhang and J. Chen*
-Preprint, [eprint](https://eprint.iacr.org/2010/242.pdf)
-- **A Framework for Secure Single Sign-On**
-*B. David, A. Nascimento, R. Tonicelli*
-Preprint, [eprint](https://eprint.iacr.org/2011/246.pdf)
-- **Secure Decentralized Access Control Policy for Data Sharing in Smart Grid**
-*Y. Ye, L. Zhang, Y. Mu, et al*
-INFOCOM 2021, [eprint](https://eprint.iacr.org/2020/1567.pdf)
-- **Cross-Domain Identity-based Matchmaking Encryption**
-*A. Wu, J. Weng, W. Luo, et al*
-Preprint, [eprint](https://eprint.iacr.org/2022/085.pdf)
 
 ### Papers
+
+- **HIR-CP-ABE: Hierarchical Identity Revocable Ciphertext-Policy Attribute-Based Encryption for Secure and Flexible Data Sharing**   
+  *Q. Dong, D. Huang, J. Luo*   
+  Preprint, [eprint](https://eprint.iacr.org/2017/1101.pdf)
+- **Privacy-preserving Identity Management System**   
+  *J. Lee, J. Choi, H. Oh, et al.*   
+  Preprint, [eprint](https://eprint.iacr.org/2021/1459.pdf)
+- **Identity-Based Authenticated Asymmetric Group Key Agreement Protocol**   
+  *L. Zhang, Q. Wu, B. Qin, et al.*   
+  COCOON 2010, [eprint](https://eprint.iacr.org/2010/209.pdf)
+- **Holistic Privacy-Preserving Identity Management System for the Internet of Things**   
+*J. Bernabe, J. Ramos, A. Gomez*   
+Mob. Inf. Syst. 2017, [hindawi](https://downloads.hindawi.com/journals/misy/2017/6384186.pdf)
+- **Efficient Access Control of Sensitive Data Service in Outsourcing Scenarios**   
+*Y. Zhang and J. Chen*   
+Preprint, [eprint](https://eprint.iacr.org/2010/242.pdf)
+- **A Framework for Secure Single Sign-On**   
+*B. David, A. Nascimento, R. Tonicelli*   
+Preprint, [eprint](https://eprint.iacr.org/2011/246.pdf)
+- **Secure Decentralized Access Control Policy for Data Sharing in Smart Grid**   
+*Y. Ye, L. Zhang, Y. Mu, et al.*   
+INFOCOM 2021, [eprint](https://eprint.iacr.org/2020/1567.pdf)
+- **Cross-Domain Identity-based Matchmaking Encryption**   
+*A. Wu, J. Weng, W. Luo, et al.*   
+Preprint, [eprint](https://eprint.iacr.org/2022/085.pdf)
 
 ### Projects
 
@@ -45,26 +46,26 @@ Preprint, [eprint](https://eprint.iacr.org/2022/085.pdf)
 ## Decentralized Identity | Self-sovereign Identity
 
 ### Papers
-- **Methods for Decentralized Identities: Evaluation and Insights**
-  *W. Fdhila, N. Stifter, K. Kostal, et al*
+- **Methods for Decentralized Identities: Evaluation and Insights**   
+  *W. Fdhila, N. Stifter, K. Kostal, et al.*   
   BPM 2021, [eprint](https://eprint.iacr.org/2021/1087.pdf)
-- **SIMS : Self Sovereign Identity Management System with Preserving Privacy in Blockchain**
-  *J. Lee, J. Hwang, J. Choi, et al*
+- **SIMS : Self Sovereign Identity Management System with Preserving Privacy in Blockchain**   
+  *J. Lee, J. Hwang, J. Choi, et al.*   
   Preprint, [eprint](https://eprint.iacr.org/2019/1241.pdf)
-- **CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability**
-  *D. Maram, H. Malvai, F. Zhang, et al*
+- **CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability**   
+  *D. Maram, H. Malvai, F. Zhang, et al.*   
   SP 2021, [eprint](https://eprint.iacr.org/2020/934.pdf)
-- **Decentralized Multi-authority Anonymous Authentication for Global Identities with Non-interactive Proofs**
-  *H. Anada*
+- **Decentralized Multi-authority Anonymous Authentication for Global Identities with Non-interactive Proofs**   
+  *H. Anada*   
   BITS 2019, [eprint](https://eprint.iacr.org/2019/701.pdf)
-- **A Decentralized Public Key Infrastructure with Identity Retention**
-  *C. Fromknecht, D. Velicanu, S. Yakoubov*
+- **A Decentralized Public Key Infrastructure with Identity Retention**   
+  *C. Fromknecht, D. Velicanu, S. Yakoubov*   
   Preprint, [eprint](https://eprint.iacr.org/2014/803.pdf)
-- **A Privacy-Preserving Distributed Identity Offline-First PoCP Blockchain Paradigm**
-  *A. Nassief*
+- **A Privacy-Preserving Distributed Identity Offline-First PoCP Blockchain Paradigm**   
+  *A. Nassief*   
   Preprint, [eprint](https://eprint.iacr.org/2021/1186.pdf)
-- **Decentralized Anonymous Credentials**
-  *C. Garman, M. Green, I. Miers*
+- **Decentralized Anonymous Credentials**   
+  *C. Garman, M. Green, I. Miers*   
   NDSS 2014, [eprint](https://eprint.iacr.org/2013/622.pdf)
 
 ### Frameworks
@@ -112,20 +113,20 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 # Privacy
 
 ## MPC-based Solutions
-- **DECO: Liberating Web Data Using Decentralized Oracles for TLS**
-  *F. Zhang, D. Maram, H. Malvai*
+- **DECO: Liberating Web Data Using Decentralized Oracles for TLS**   
+  *F. Zhang, D. Maram, H. Malvai*   
   CCS 2020, [arxiv](https://arxiv.org/pdf/1909.00938.pdf)
   - [Official Website](https://www.deco.works/)
   - [Ari Juels Presentation](https://www.youtube.com/watch?v=zWTx1iQOCDM)
   - [Chainlink Mixicles](https://assets.website-files.com/5f44d690acb168953e6181f6/5fa2f1616ac1b092226b3a86_mixicles.pdf)
-### General Frameworks
+### General MPC Frameworks
 - [Multi-Protocol SPDZ](https://github.com/data61/MP-SPDZ): Software to benchmark various SMPC protocols such as SPDZ, SPDZ2k, MASCOT, Overdrive, BMR garbled circuits, Yao's garbled circuits, and computation based on three-party replicated secret sharing as well as Shamir's secret sharing (with an honest majority).
 - [Secretflow](https://github.com/secretflow/secretflow): SecretFlow is a unified framework for privacy-preserving data intelligence and machine learning
 
 
 ## ZKP-based Solutions
-- **zkKYC in DeFi: An approach for implementing the zkKYC solution concept in Decentralized Finance**
-  *P. Pauwels, J. Pirovich, P. Braunz, et al*
+- **zkKYC in DeFi: An approach for implementing the zkKYC solution concept in Decentralized Finance**   
+  *P. Pauwels, J. Pirovich, P. Braunz, et al.*   
   Preprint, [eprint](https://eprint.iacr.org/2022/321.pdf)
 
 ### Basic Zero-knowledge Proofs
@@ -136,17 +137,22 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 ## PSI-based Solutions
 
 ## TEE-based Solutions
-- **Town Crier: An Authenticated Data Feed for Smart Contracts**
-  *F. Zhang, E. Cecchetti, K. Croman, et al.*
+- **Town Crier: An Authenticated Data Feed for Smart Contracts**   
+  *F. Zhang, E. Cecchetti, K. Croman, et al.*   
   CCS 2016, [eprint](https://eprint.iacr.org/2016/168.pdf)
   - [Website](https://www.town-crier.org/)
   - [GitHub](https://github.com/bl4ck5un/Town-Crier)
 
+## Secret Handshake 
+- **Match Me if You Can: Matchmaking Encryption and its Applications**   
+  *G. Ateniese, D. Francati, D. Nuñez, et al.*   
+  JOC 2021, [eprint](https://eprint.iacr.org/2018/1094.pdf)
+
 ---
 
 # Reputation 
-- **A Decentralized Anonymity-Preserving Reputation System with Constant-time Score Retrieval**
-  *R. Bazin, A. Schaub, O. Hasan et al*
+- **A Decentralized Anonymity-Preserving Reputation System with Constant-time Score Retrieval**   
+  *R. Bazin, A. Schaub, O. Hasan et al.*   
   Preprint, [eprint](https://eprint.iacr.org/2016/416.pdf)
 
 
