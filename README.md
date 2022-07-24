@@ -67,8 +67,18 @@ Preprint, [eprint](https://eprint.iacr.org/2022/085.pdf)
 - **Decentralized Anonymous Credentials**   
   *C. Garman, M. Green, I. Miers*   
   NDSS 2014, [eprint](https://eprint.iacr.org/2013/622.pdf)
+- **Studying Bitcoin Privacy Attacks and Their Impact on Bitcoin-Based Identity Methods**   
+  *S. Ghesmati, W. Fdhila, Ed. Weippl*   
+  BPM 2021, [Springer](https://link.springer.com/chapter/10.1007/978-3-030-85867-4_7)
+  - [Research Summary](https://www.smartcontractresearch.org/t/research-summary-studying-bitcoin-privacy-attacks-and-their-impact-on-bitcoin-based-identity-methods/1790)
 
 ### Frameworks
+
+- [**Sidetree Protocol**](https://identity.foundation/sidetree/spec/)  is a protocol for creating scalable *Decentralized Identifier networks* that can run atop any existing decentralized anchoring system (e.g. Bitcoin, Ethereum, distributed ledgers, witness-based approaches).
+  - [GitHub](https://github.com/decentralized-identity/sidetree)
+  - [REST API](https://identity.foundation/sidetree/api/)
+  - [**Ion**](https://identity.foundation/ion/) is a permissionless DID network that implements Sidetree on top of Bitcoin
+  - [**Sidetree Ethereuem**](https://github.com/decentralized-identity/sidetree-ethereum) is a REST API that supports anchoring of Sidetree Transactions to the Ethereum Blockchain
 
 ## Account-bound Tokens | Soulbound Tokens
 
