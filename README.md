@@ -4,7 +4,7 @@ This is a curated list of academic, engineering, and educational resources relat
 
 The highly *interoperable*, *composable*, and *user-owned* future of the Internet, around which "web3" is termed, is far away from maturity, despite large amounts of capital being poured into the space. In the meantime, *identity*, aside from blockchain tech, is emerging as a crucial new primitive that may eventually unlock the massive adoption of web3 applications (or as Jack Dorsey would like to term it, [web5](https://twitter.com/jack/status/1535314738078486533)). Since identities are centered around user behaviors, their *privacy* naturally becomes important. Similarly, a wide array of identity-based applications are built around user *reputation*, which measures and (sometimes) quantifies vanilla user behavior data.
 
-With the above in mind, this repo keeps track of the latest academic research, project and framework development, and educational resources related to the field. We attempt to keep all the resources as approachable as possible by providing more context about them. For academic papers, it's recommended for additional explanatory resources like slides and videos to be added.
+With the above in mind, this repo keeps track of the latest academic research, project and framework development, and educational resources related to the field. We attempt to keep all the resources as approachable as possible by providing more context for them. For academic papers, it's recommended for additional explanatory resources like slides and videos to be added. In addition, I will gradually add in ***paper reading*** sections for listed papers for further explanation.
 
 For contributions, please refer to [the contribution guidelines](https://github.com/kvnyu24/awesome-identity/blob/main/CONTRIBUTING.md).
 
@@ -119,7 +119,14 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
   - [Official Website](https://www.deco.works/)
   - [Ari Juels Presentation](https://www.youtube.com/watch?v=zWTx1iQOCDM)
   - [Chainlink Mixicles](https://assets.website-files.com/5f44d690acb168953e6181f6/5fa2f1616ac1b092226b3a86_mixicles.pdf)
+
+### Basic MPC
+
+- [The Awesome MPC Repo by *rdragos*](https://github.com/rdragos/awesome-mpc)
+- [The Awesome Secure Computation Repo y *Jamie-Cui*](https://github.com/Jamie-Cui/awesome-secure-computation)
+
 ### General MPC Frameworks
+
 - [Multi-Protocol SPDZ](https://github.com/data61/MP-SPDZ): Software to benchmark various SMPC protocols such as SPDZ, SPDZ2k, MASCOT, Overdrive, BMR garbled circuits, Yao's garbled circuits, and computation based on three-party replicated secret sharing as well as Shamir's secret sharing (with an honest majority).
 - [Secretflow](https://github.com/secretflow/secretflow): SecretFlow is a unified framework for privacy-preserving data intelligence and machine learning
 
@@ -131,10 +138,21 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 
 ### Basic Zero-knowledge Proofs
 
-
-
+- [The Awesome ZKP Repo by *matter-labs*](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+- [The Awesome ZK Repo by *ventali*](https://github.com/ventali/awesome-zk)
+- [The Awesome ZKP Repo by *mattgstevens*](https://github.com/mattgstevens/awesome-zero-knowledge-proofs)
+- [The Awesome ZKEVM Repo by *LuozhuZhang*](https://github.com/LuozhuZhang/Awesome-zkEVM)
+- [The Awesome ZKP Starter Pack Repo by *paulrberg*](https://github.com/paulrberg/awesome-zkp-starter-pack)
+- [The Awesome Plonk Repo by *fluidex*](https://github.com/fluidex/awesome-plonk)
 
 ## PSI-based Solutions
+
+### PSI Frameworks
+
+- [*OpenMined*'s PSI Implementation in Multiple Languages](https://github.com/OpenMined/PSI)
+- [*encryptogroup*'s PSI Implementation in C++](https://github.com/encryptogroup/PSI)
+- [*Microsoft*'s Asymmetric PSI Implementation in C++](https://github.com/microsoft/APSI)
+- [*Google*'s Private Join and Compute Library in C](https://github.com/google/private-join-and-compute)
 
 ## TEE-based Solutions
 - **Town Crier: An Authenticated Data Feed for Smart Contracts**   
@@ -172,6 +190,26 @@ A standard interface for non-transferrable NFTs binding to an Ethereum account l
 
 ## Cryptography
 
-### Digital Signatures
+- [Awesome Cryptography by *sobolevn*](https://github.com/sobolevn/awesome-cryptography)
+- [Collected Libraries & Packages about Cryptography in **Rust**](https://github.com/rust-cc/awesome-cryptography-rust)
+- [The **Python** `cryptography` Library](https://github.com/pyca/cryptography)
+- [The **Javascript** `crypto-js` Library](https://github.com/brix/crypto-js)
+- [Supplementary Crypto Libraries in **Go**](https://github.com/golang/crypto)
+- [Crypto++](https://www.cryptopp.com/)
 
-## Legislation
+## Compliance
+
+- [Compliance Rank](https://compliancerank.com/)
+
+### GDPR
+
+- [Official Website](https://gdpr.eu/)
+  - [What is GDPR](https://gdpr.eu/what-is-gdpr/)
+  - [Checklist](https://gdpr.eu/checklist/)
+- [GDPR Enforcement Tracker](https://www.enforcementtracker.com/)
+- [GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide)
+
+### CCPA
+
+- [Official Legislation Document](https://oag.ca.gov/privacy/ccpa#:~:text=The%20California%20Consumer%20Privacy%20Act,how%20to%20implement%20the%20law.)
+- [Technical Specifications to Support US Privacy Initiatives](https://github.com/InteractiveAdvertisingBureau/USPrivacy)
